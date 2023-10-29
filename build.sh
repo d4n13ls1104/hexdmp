@@ -1,2 +1,2 @@
 #! /usr/bin/bash
-gcc -Wall -Wextra -std=c89 -o hexdmp main.c
+gcc -Wall -Wextra -std=gnu89 -o hexdmp main.c
